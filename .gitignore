@@ -1,0 +1,12 @@
+# Environment variables (contains secrets/API URLs)
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment (if you create one)
+venv/
+env/
+.venv/
